@@ -70,7 +70,7 @@ print('rProd = ',rProd)
 
 print(type(rProd))
 
-
+# Adding a comment.
 x = np.zeros((2,2), dtype=[('a', np.int32), ('b', np.float64, (3,3))])
 print(x['b'])
 
